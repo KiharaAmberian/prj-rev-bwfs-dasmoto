@@ -1,0 +1,60 @@
+h1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: NavajoWhite;
+  text-align: center;
+  text-shadow: 2px 2px #A52A2A;
+  padding-top: 7%;
+}
+
+h1 {
+  background-image:
+  url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  opacity: 0.95;
+  box-shadow: 30px 30px 50px 0 white inset, -30px -30px 50px 0 white inset;
+
+}
+
+
+h2 {
+  display: block;
+  font-family: Helvetica;
+  font-weight:bold;
+  font-size: 32px;
+  line-height: 65px;
+  margin-left:0px;
+  padding: 10px;
+  position: center;
+  top: 80%;
+  width: 98%;
+  color: white;
+}
+
+h4 {
+  font-family: sans-serif;
+  position: center;
+  margin-left: 250px;
+}
+#contact {
+  margin-left: 250px;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url(http://coronacero.com.mx/img/layer7.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+h3 {
+  font-family: Candara;
+}
